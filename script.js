@@ -1,4 +1,4 @@
-const url = "https://api.dictionaryapi.dev/api/v2/entries/en/";
+const url = "ADD DICTIONARY API";
 
 const result = document.getElementById("result");
 const sound = document.getElementById("sound");
